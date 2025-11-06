@@ -38,11 +38,11 @@
 
 ###
 
-<h3 align="left">Links a Video / Repositorio a GitHub --> </h3>
+<h3 align="left">Links a Video / Repositorio a GitHub </h3>
 
 ###
 
-<p align="left">Link a Video --><br>Link a Repositorio GitHub --> https://github.com/KiyoponLZ/Trabajo-integrador-Programacion-/tree/main</p>
+<p align="left">Link a Video --> https://www.youtube.com/watch?v=Wn86GH8A2rM<br>Link a Repositorio GitHub --> https://github.com/KiyoponLZ/Trabajo-integrador-Programacion-/tree/main</p>
 
 ###
 
